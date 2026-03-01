@@ -1,0 +1,15 @@
+{
+    "name": "vfs-tree",
+    "version": "1.0.0",
+    "description": "A lightweight, tree-based virtual file system for JavaScript. Ideal for file explorers and system simulations.",
+    "main": "index.js",
+    "keywords": [
+        "vfs",
+        "virtual-fs",
+        "tree",
+        "file-system",
+        "browser-fs"
+    ],
+    "author": "Antigravity",
+    "license": "MIT"
+}
