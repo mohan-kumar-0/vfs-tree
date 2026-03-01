@@ -1,5 +1,5 @@
 {
-    "name": "vfs-tree",
+    "name": "vfs-treejs",
     "version": "1.0.0",
     "description": "A lightweight, tree-based virtual file system for JavaScript. Ideal for file explorers and system simulations.",
     "main": "index.js",
