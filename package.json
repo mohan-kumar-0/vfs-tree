@@ -1,15 +1,34 @@
 {
     "name": "vfs-treejs",
-    "version": "1.0.0",
-    "description": "A lightweight, tree-based virtual file system for JavaScript. Ideal for file explorers and system simulations.",
+    "version": "1.0.1",
+    "description": "A lightweight, tree-based virtual file system for JavaScript. Create, read, update, delete, and move nodes in a hierarchical structure with optional localStorage persistence.",
     "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mohan-kumar-0/vfs-tree.git"
+    },
+    "homepage": "https://github.com/mohan-kumar-0/vfs-tree#readme",
+    "bugs": {
+        "url": "https://github.com/mohan-kumar-0/vfs-tree/issues"
+    },
     "keywords": [
         "vfs",
-        "virtual-fs",
+        "virtual-filesystem",
         "tree",
         "file-system",
-        "browser-fs"
+        "browser-fs",
+        "localstorage",
+        "hierarchical-data",
+        "file-explorer",
+        "mock-fs",
+        "in-memory-fs",
+        "json-tree",
+        "nested-data",
+        "os-simulation"
     ],
-    "author": "Antigravity",
+    "author": "mohan-kumar-0",
     "license": "MIT"
 }
